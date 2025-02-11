@@ -31,10 +31,6 @@ The program begins execution in `root.rb`, where the `VastProcessor` module is i
 6. **Upload New VAST**
    - The newly generated VAST file is uploaded to S3 and its URL is returned.
 
-### Diagram (for reference)
-(Please add a diagram or flowchart here showing the steps outlined above.)
-
-### Comments
-Be sure to add comments to each function and class to help with readability and maintainability of the code. Proper commenting will make it easier for other developers to understand the purpose of each part of the solution and how it fits into the larger process.
+### Diagram (for flow)
 
 ![VAST_FLOW](https://github.com/user-attachments/assets/2592735e-22fe-439e-a960-a9f865c4ef81)
