@@ -3,8 +3,8 @@
 This solution is designed to process VAST (Video Ad Serving Template) files, perform media file extraction, video transcoding, and upload the resulting files to Amazon S3. The solution is structured in a modular way to easily handle different stages of the process, from parsing VAST to generating a new VAST file with transcoded media files.
 
 ## Authors
-- **Y. Wyszynski**
-- **K. Loza**
+- **@y-wyszynski**
+- **@k-loza**
 
 Please review the solution and provide any feedback or questions regarding the implementation.
 
